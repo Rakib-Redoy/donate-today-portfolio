@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+}
+
+.btn{
+    margin-top: 20px;
+    padding: 14px 24px;
+    border-radius: 5px;
+    background: #cf3c22fa;
+    border: 0;
+    color: #fff;
+    font-size: 18px;
+}
+.header{
+    background-image: url(../images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top center;
+    padding-top: 35px;
+
+}
+.heading-text{
+    margin: auto;
+    text-align:center;
+    padding: 50px;
+}
+.heading{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 60px;
+    padding-top: 130px;
+    
+}
+.head-para{
+    color: antiquewhite;
+    font-weight: 300;
+    font-size: 16px;
+    margin: 20px 0;
+}
+
+/* Ammount Section */
+
+.ammount{
+    text-align: center;
+    padding: 80px 170px;
+}
+.donate-text h3{
+    font-size: 35px;
+    font-weight: 700;
+    color: #121212
+}
+.donate-text p{
+    margin: 30px 0;
+    color: #707070;
+    font-weight: 400;
+}
+.cash-ammount{
+    display: flex;
+    gap: 50px;
+    padding-left: 140px;
+}
+.cash-ammount p{
+    font-size: 30px;
+    border: 0;
+    padding: 20px 10px;
+    margin-bottom: 30px;
+    background: #eee;
+    border-radius: 5px;
+    color: #707070;
+    font-weight: 700;
+}
